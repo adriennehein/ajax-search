@@ -1,5 +1,6 @@
 body {
-  background: #383F51;
+  background: url('cityscape.jpeg') center center fixed;
+
   font-family: "Arial", Times, serif;
 }
 
